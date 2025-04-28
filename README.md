@@ -19,17 +19,17 @@ Each chapter comes with:
 
 ## 🧭 Progress Tracker
 
-| Chapter | Title | Status |
-|:-------:|:------|:------:|
-| 1 | Object-Oriented Design | 🔲 Not Started |
-| 2 | Designing Classes with a Single Responsibility | 🔲 Not Started |
-| 3 | Managing Dependencies |🔲 Not Started |
-| 4 | Creating Flexible Interfaces | 🔲 Not Started |
-| 5 | Reducing Costs with Duck Typing | 🔲 Not Started |
-| 6 | Acquiring Behavior through Inheritance | 🔲 Not Started |
-| 7 | Sharing Role Behavior with Modules | 🔲 Not Started | 
-| 8 | Combining Objects with Composition | 🔲 Not Started | 
-| 9 | Designing Cost-Effective Tests | 🔲 Not Started | 
+| Chapter | Title                                          |     Status     |
+| :-----: | :--------------------------------------------- | :------------: |
+|    1    | Object-Oriented Design                         |  ✅ Complete   |
+|    2    | Designing Classes with a Single Responsibility | 🔲 Not Started |
+|    3    | Managing Dependencies                          | 🔲 Not Started |
+|    4    | Creating Flexible Interfaces                   | 🔲 Not Started |
+|    5    | Reducing Costs with Duck Typing                | 🔲 Not Started |
+|    6    | Acquiring Behavior through Inheritance         | 🔲 Not Started |
+|    7    | Sharing Role Behavior with Modules             | 🔲 Not Started |
+|    8    | Combining Objects with Composition             | 🔲 Not Started |
+|    9    | Designing Cost-Effective Tests                 | 🔲 Not Started |
 
 ---
 
@@ -38,6 +38,7 @@ Each chapter comes with:
 Each chapter has its own markdown file and related code samples:
 
 ```
+
 ```
 
 Each **Toolkit Addition** is a real, reusable piece of code inspired by POODR principles, adapted for TypeScript.
@@ -51,12 +52,9 @@ Each **Toolkit Addition** is a real, reusable piece of code inspired by POODR pr
 - 🤔 Ask better questions about code quality and flexibility.
 - 📈 Evolve coding habits to naturally write more flexible, resilient code.
 
-
 ---
 
 ## 🎉 Join the Ride!
 
 _"Good code is not about adding layers. It's about removing obstacles."_  
 Let’s design code that’s built to change. Let’s build systems we can love.
-
-
