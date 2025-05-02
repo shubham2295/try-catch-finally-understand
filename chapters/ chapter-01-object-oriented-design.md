@@ -10,11 +10,6 @@ This chapter lays the foundation for object-oriented design (OOD). It reframes s
 - 🔄 OOD = managing dependencies
 - 💌 Messages are more important than objects
 - 🛠️ Design isn’t about guessing the future — it’s about making change cheap
-- ✔️ Good design passes the TRUE test:
-  - Transparent
-  - Reusable
-  - Usable
-  - Exemplary
 
 ## 🧪 Code Pattern
 
@@ -30,7 +25,7 @@ class Gear {
 
 A simple class with clear behavior (ratio) and internal state. A clean starting point to evolve from as requirements shift.
 
-## 🤔 Reflection / Real Talk
+## 🤔 Reflection
 
 I often wait too long before thinking about design. This chapter helped me see that design doesn’t mean you stop coding — it means you’re always designing, even in small moments.
 
