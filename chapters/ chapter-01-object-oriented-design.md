@@ -27,8 +27,9 @@ A simple class with clear behavior (ratio) and internal state. A clean starting 
 
 ## 🤔 Reflection
 
-I often wait too long before thinking about design. This chapter helped me see that design doesn’t mean you stop coding — it means you’re always designing, even in small moments.
+Design doesn’t mean you stop coding — it means you’re always designing, even in small moments.
 
 ## 🔖 Sticker Wisdom
 
-“The purpose of design is to allow you to do design later.” — Sandi Metz
+“The purpose of design is to allow you to do design later.”
+"Suffering from problem is prerequisite of comprehending the solutions."
