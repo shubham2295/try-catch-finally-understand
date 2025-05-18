@@ -1,9 +1,11 @@
 # 📘 POODR Chapter 2 – Designing Classes with a Single Responsibility
 
 ## 🧠 TLDR
+
 This chapter is all about the Single Responsibility Principle (SRP). A class should do one thing and do it well. When a class takes on too many roles, it becomes rigid and hard to change. SRP makes code easier to reuse, understand, and evolve.
 
 ## 💡 Key Concepts
+
 - ✔️ Good design passes the TRUE(Transparent, Resusable, Usable, Exemplary) test
 - 🧼 A class should represent a single concept or responsibility
 - 🧩 Break large classes into smaller collaborators
@@ -12,6 +14,7 @@ This chapter is all about the Single Responsibility Principle (SRP). A class sho
 - ✅ The more focused the class, the easier it is to test
 
 ## 🧪 Code Pattern
+
 ```typescript
 // SRP in action: Gear calculates gearing, Wheel calculates diameter. One job per class.
 class Gear {
@@ -40,11 +43,13 @@ class Wheel {
 ```
 
 ## 🧪 Mini Challenge
+
 - 🎯 Take a class in your current TypeScript project
 - 🔍 Ask: “What’s your job?”
 - ✅ If it does 2+ things, break it into smaller, focused classes
 
 🔁 Refactor This
+
 ```typescript
 // ❌ Before: mixed concerns
 class Gear {
@@ -60,7 +65,7 @@ class Gear {
   }
 
   gearInches(): number {
-    return this.chainring / this.cog * this.diameter();
+    return (this.chainring / this.cog) * this.diameter();
   }
 }
 
@@ -87,7 +92,9 @@ class Gear {
 ```
 
 ## 🤔 Reflection
+
 Just because it's related doesn't mean it belongs together. SRP isn't about minimalism — it’s about clarity.
 
 ## 🔖 Sticker Wisdom
+
 “A class should do the smallest possible useful thing.”

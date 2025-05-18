@@ -22,8 +22,8 @@ Each chapter comes with:
 | Chapter | Title                                          |     Status     |
 | :-----: | :--------------------------------------------- | :------------: |
 |    1    | Object-Oriented Design                         |  ✅ Complete   |
-|    2    | Designing Classes with a Single Responsibility | 🔲 Not Started |
-|    3    | Managing Dependencies                          | 🔲 Not Started |
+|    2    | Designing Classes with a Single Responsibility |  ✅ Complete   |
+|    3    | Managing Dependencies                          |  ✅ Complete   |
 |    4    | Creating Flexible Interfaces                   | 🔲 Not Started |
 |    5    | Reducing Costs with Duck Typing                | 🔲 Not Started |
 |    6    | Acquiring Behavior through Inheritance         | 🔲 Not Started |
