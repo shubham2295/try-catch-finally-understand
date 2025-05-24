@@ -25,7 +25,7 @@ Each chapter comes with:
 |    2    | Designing Classes with a Single Responsibility |  ✅ Complete   |
 |    3    | Managing Dependencies                          |  ✅ Complete   |
 |    4    | Creating Flexible Interfaces                   |  ✅ Complete   |
-|    5    | Reducing Costs with Duck Typing                | 🔲 Not Started |
+|    5    | Reducing Costs with Duck Typing                |  ✅ Complete   |
 |    6    | Acquiring Behavior through Inheritance         | 🔲 Not Started |
 |    7    | Sharing Role Behavior with Modules             | 🔲 Not Started |
 |    8    | Combining Objects with Composition             | 🔲 Not Started |
