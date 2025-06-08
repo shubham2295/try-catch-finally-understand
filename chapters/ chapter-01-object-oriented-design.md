@@ -31,5 +31,6 @@ Design doesn’t mean you stop coding — it means you’re always designing, ev
 
 ## 🔖 Sticker Wisdom
 
-“The purpose of design is to allow you to do design later.”
-"Suffering from problem is prerequisite of comprehending the solutions."
+> “The purpose of design is to allow you to do design later.”
+
+> "Suffering from problem is prerequisite of comprehending the solutions."

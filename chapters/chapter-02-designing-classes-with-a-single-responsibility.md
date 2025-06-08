@@ -97,4 +97,4 @@ Just because it's related doesn't mean it belongs together. SRP isn't about mini
 
 ## 🔖 Sticker Wisdom
 
-“A class should do the smallest possible useful thing.”
+> “A class should do the smallest possible useful thing.”

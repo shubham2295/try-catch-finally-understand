@@ -83,6 +83,8 @@ This chapter reframed “interface” as communication, not just method names. P
 
 ## 🔖 Sticker Wisdom
 
-“Ask for what you want, not how to get it.”
-"Object oriented application is made up of classes but defined by messages"
-"Instead of deciding on a class and then figuring out its responsibilities, you are now deciding on a message and figuring out where to send it.
+> “Ask for what you want, not how to get it.”
+
+> "Object oriented application is made up of classes but defined by messages"
+
+> "Instead of deciding on a class and then figuring out its responsibilities, you are now deciding on a message and figuring out where to send it.

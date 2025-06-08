@@ -89,5 +89,6 @@ It's not the class of the object that’s important, it’s the message you plan
 
 ## 🔖 Sticker Wisdom
 
-"Your class becomes less useful when it knows too much about other objects; if it knew less, it could do more."
-"Pretend for a moment that your classes are people. If you were to give them advice about how to behave, you would tell them to depend on things that change less often than you do."
+> "Your class becomes less useful when it knows too much about other objects; if it knew less, it could do more."
+
+> "Pretend for a moment that your classes are people. If you were to give them advice about how to behave, you would tell them to depend on things that change less often than you do."

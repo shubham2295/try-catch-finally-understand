@@ -76,5 +76,6 @@ Interfaces are often seen as essential for ensuring safety, but this chapter hig
 
 ## 🔖 Sticker Wisdom
 
-"The ability to tolerate ambiguity about the class of an object is the hallmark of a confident designer"
-"Flexible applications are built on objects that operate on trust; it is your job to make your objects trustworthy"
+> "The ability to tolerate ambiguity about the class of an object is the hallmark of a confident designer"
+
+> "Flexible applications are built on objects that operate on trust; it is your job to make your objects trustworthy"
