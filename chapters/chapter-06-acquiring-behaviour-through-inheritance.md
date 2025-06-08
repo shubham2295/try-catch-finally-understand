@@ -6,10 +6,10 @@ Inheritance can help you share behavior and reduce duplication, but only when us
 
 ## 💡 Key Concepts
 
-🧬 Inheritance means "is-a" but also "acts-like"
-🔁 Overuse leads to rigid, tangled class hierarchies
-🧠 Prefer composition when behavior varies
-🧪 Use abstract base classes to enforce shared interfaces
+- 🧬 Inheritance means "is-a" but also "acts-like"
+- 🔁 Overuse leads to rigid, tangled class hierarchies
+- 🧠 Prefer composition when behavior varies
+- 🧪 Use abstract base classes to enforce shared interfaces
 
 ## 🧪 Code Pattern
 
@@ -35,9 +35,9 @@ class RoadBike extends Bicycle {
 
 ## 🧪 Mini Challenge
 
-🎯 Find two classes with overlapping behavior
-🔍 Does one conceptually “inherit” from the other, or should they compose?
-🧪 Bonus: Write a shared abstract class and extend both
+- 🎯 Find two classes with overlapping behavior
+- 🔍 Does one conceptually “inherit” from the other, or should they compose?
+- 🧪 Bonus: Write a shared abstract class and extend both
 
 ## 🔁 Refactor This
 
