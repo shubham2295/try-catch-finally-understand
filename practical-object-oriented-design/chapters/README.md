@@ -10,7 +10,7 @@
 This repo tracks my reading, reflections, and code experiments while working through **Practical Object-Oriented Design** (POODR).  
 Each chapter comes with:
 
-- 📖 A short TL;DR summary
+- 📖 A short TLDR summary
 - 💬 Key concepts and memorable quotes
 - 🛠️ A custom **TypeScript toolkit addition** inspired by the chapter
 - 🎯 Mini coding challenges and refactor exercises
@@ -27,8 +27,8 @@ Each chapter comes with:
 |    4    | Creating Flexible Interfaces                   |  ✅ Complete   |
 |    5    | Reducing Costs with Duck Typing                |  ✅ Complete   |
 |    6    | Acquiring Behavior through Inheritance         |  ✅ Complete   |
-|    7    | Sharing Role Behavior with Modules             | 🔲 Not Started |
-|    8    | Combining Objects with Composition             | 🔲 Not Started |
+|    7    | Sharing Role Behavior with Modules             |  ✅ Complete   |
+|    8    | Combining Objects with Composition             |  ✅ Complete   |
 |    9    | Designing Cost-Effective Tests                 | 🔲 Not Started |
 
 ---
